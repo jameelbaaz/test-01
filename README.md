@@ -5,6 +5,8 @@ where on the right side of the screen should display a cart that show a list of 
 
 Please read the instructions and FAQ below before begin.
 
+
+
 ## Features
 
 - products should display in a grid.
@@ -36,6 +38,8 @@ Please read the instructions and FAQ below before begin.
   material
 }
 ```
+
+npm run dev -- to development server and frontend 
 
 ## FAQs
 
